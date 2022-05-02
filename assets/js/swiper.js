@@ -10,11 +10,11 @@ var swiper = new Swiper('.swiper', {
 
   pagination: {
     el: '.strength-slider__pagination',
-    clickable: true, 
+    clickable: true,
   },
 
   autoplay: {
-    delay: 2000, 
+    delay: 2000,
     disableOnInteraction:false
   },
 
